@@ -15,5 +15,5 @@ Key features:
 4. Test and Production environments
 5. Tech stack - NodeJs and Angular
 
-**The project is currently in development. Please give it a star if you are interested in the tool - it will speed up the development process.**
+**The project is currently in development. Please give it a star or start watching if you are interested in the tool - it will speed up the development process.**
 If you are ready to be an early adopter please email <igorchvalun@gmail.com>
