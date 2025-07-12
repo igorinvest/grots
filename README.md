@@ -1,4 +1,4 @@
-# grots Get rid of the spreadsheet
+# Get rid of the spreadsheet
 Open-source low-code application that allows you to upload CSV files and use uploaded data to generate reports
 
 GROTS is built to prototype and automate company business-processes, reduce time-to-market, operations workload, reduce human errors when managing a process.
